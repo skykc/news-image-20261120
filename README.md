@@ -1,6 +1,8 @@
 # Friday 20 November 2026: 50 sourced stories, a UTC timeline and a date check
 
 [![make.fun · news-image-20261120](https://make.fun/badge/news-image-20261120.svg)](https://make.fun/bounty/news-image-20261120?utm_source=github&utm_medium=referral&utm_campaign=bounty&utm_content=news-image-20261120&ref=6en97dxm)
+[![rank](https://make.fun/badge/news-image-20261120/skykc/news-image-20261120/rank.svg)](https://make.fun/bounty/news-image-20261120/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261120)
+[![reward](https://make.fun/badge/news-image-20261120/skykc/news-image-20261120/reward.svg)](https://make.fun/bounty/news-image-20261120?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261120)
 
 A one-page newspaper summing up Friday 20 November 2026 in 50 verified stories:
 4 big illustrated stories, 12 medium illustrated stories, 34 more in a list, a
